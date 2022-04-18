@@ -72,9 +72,9 @@ void init(void){
 void Draw()
 {
 
-    fullSky(); //mira
-    fullBottom();//mira
-    lake();//mira
+    fullSky(); //Meherin
+    fullBottom();//Meherin
+    lake();//Meherin
 
 }
 
